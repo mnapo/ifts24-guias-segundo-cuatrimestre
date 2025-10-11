@@ -1,7 +1,7 @@
-# Guías resueltas 2025
-Instituto de Formación Técnica Profesional Nº24
-Av. Entre Ríos 757, CABA, Argentina
+# Estadística y Probabilidad para Gestión de Datos
 
-## Primer Año, Segundo Cuatrimestre
+# Desarrollo de Sistemas de IA
 
-### Estadística y Probabilidad para Gestión de Datos
+# Aproximación al Campo Laboral
+
+# Taller de Comunicación
