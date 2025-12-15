@@ -3,6 +3,7 @@
 # Aproximación al Campo Laboral
 
 # Desarrollo de Sistemas de IA
+- Guía completa: https://github.com/mnapo/ifts24-dsia-guia-completa
 
 # Estadística y Probabilidad para Gestión de Datos
 
